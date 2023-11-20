@@ -1,46 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GoodSeul
+<h3>굿을 더 슬기롭게 '구슬' 프로젝트<h3/>
+<img width="800" alt="image" src="https://github.com/Electronic-Gangster/goodseul/assets/124333495/98c80a7e-4112-45ef-9e88-65350067a988">
+<br/>
+  
+<a href="https://drive.google.com/file/d/1iPE3jcXgFMvCAwo8XpUwSkdjUR0OT6Mc/view?usp=sharing">프로젝트 구슬 보고서.pdf</a>
+<br/>
+<br/>
 
-## Available Scripts
+## Development Schedule
+* 기간 : 2023.09.04 ~ 2023.11.03
+* 인원 : 9명
 
-In the project directory, you can run:
+<img width="1093" alt="스크린샷 2023-11-20 오후 5 18 51" src="https://github.com/Electronic-Gangster/goodseul/assets/124333495/b9de54cf-1daf-4257-857f-2c573734cd6d">
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Role
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<table width="800">
+    <tr>
+    <td colspan="3" style="text-align: center;">프론트엔드</td>
+  </tr>
+  <tr>
+    <td>김형민</td>
+    <td>PM,UX/UI디자인,퍼블리싱,프론트엔드</td>
+    <td><a href="https://github.com/Electronic-Gangster">HYUNGMIN's Github</td>
+  </tr>
+</table>
 
-### `npm test`
+## Technology used
+### Front-End
+<div>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+  <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+  <img src="https://img.shields.io/badge/recoil-5A29E4?style=for-the-badge&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tools
+<div> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-F24E1E?style=for-the-badge&logo=npm&c%2B%2B&logoColor=white">
+</div>
 
-### `npm run build`
+## Service Simulation
+### * 실시간페이지
+<img src="https://github.com/Electronic-Gangster/goodseul/assets/124333495/34857204-8d93-4813-97e9-e5ccea89bdb4?raw=true" width=20%>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### * 커뮤니티페이지
+<img src="https://github.com/Electronic-Gangster/goodseul/assets/124333495/774cb9c3-66aa-4856-9cb2-3a04670f57a8?raw=true" width=20%>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
