@@ -27,6 +27,8 @@
     <td><a href="https://github.com/Electronic-Gangster">HYUNGMIN's Github</td>
   </tr>
 </table>
+<br/><br/>
+
 
 ## Technology used
 ### Front-End
@@ -40,6 +42,8 @@
   <img src="https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
+<br/><br/>
+
 ### Tools
 <div> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -48,6 +52,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/npm-F24E1E?style=for-the-badge&logo=npm&c%2B%2B&logoColor=white">
 </div>
+
+<br/>
+<br/>
 
 ## Service Simulation
 ### * 실시간페이지
